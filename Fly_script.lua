@@ -1,4 +1,4 @@
--- Bring to you by 7alexv7
+-- Bring to you by Shelter/mafra
 -- Enjoy the script!
  
 -- Instances:
